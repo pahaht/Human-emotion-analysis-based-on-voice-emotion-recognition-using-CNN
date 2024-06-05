@@ -29,13 +29,13 @@ spectrogram image with the help of the Discrete Fourier Transform
 ![alt text]( https://github.com/pahaht/Human-emotion-analysis-based-on-voice-emotion-recognition-using-CNN/blob/main/pictures/spectrogram.JPG)
 
 
-Model Architecture
+### *Model Architecture*
 The model consists of the following main components:
 FFT Layer: Converts the audio signal from time-domain to frequency-domain.
 CNN Layers: Extracts features from the frequency-domain representation of the audio signal.
 Fully Connected Layers: Classifies the extracted features into predefined emotion categories.
 
-![alt text]( https://github.com/pahaht/Human-emotion-analysis-based-on-voice-emotion-recognition-using-CNN/blob/main/pictures/archicture.JPG)
+![alt text]( https://github.com/pahaht/Human-emotion-analysis-based-on-voice-emotion-recognition-using-CNN/blob/main/pictures/architecture.JPG)
 
 
 
